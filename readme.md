@@ -1,4 +1,5 @@
 # Learning With noisy labels
+Designing supervised learning algorithms that can learn from data sets with noisy labels is a problem of great practical importance. This Blog I will give you a brief introduciton and worldview of this research area.
 
 # 1. Context
 Deep learning has several principle problems: 
