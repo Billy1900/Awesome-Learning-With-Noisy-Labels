@@ -3,17 +3,17 @@ Designing supervised learning algorithms that can learn from data sets with nois
 
 # 1. Context
 Deep learning has several principle problems: 
-- 1) deep learning requires a lot of data training 
-- 2) do not have enough ability to migrate 
-- 3) open inference problem 
-- 4) principle is not transparent deep learning heavily relies on high quality annotation data, resulting in high time, labor cost; 
+- deep learning requires a lot of data training 
+- do not have enough ability to migrate 
+- open inference problem 
+- principle is not transparent deep learning heavily relies on high quality annotation data, resulting in high time, labor cost; 
 so, how to achieve semi-supervised, unsupervised learning is a very important problem.
 
 The Learning with noisy labels situation is as follows:
 
-- 1) In the initial phase, it has a certain amount of data of unknown annotation quality. There is a certain annotation data, which can be obtained through the search engine, the public dataset.
-- 2) The annotation data is of low quality — with high or low annotation errors
-- 3) it requires continuous manual input to constantly improve the quality of annotation. The form of human annotation may be with paid crowdsourcing, or with user feedback.
+- In the initial phase, it has a certain amount of data of unknown annotation quality. There is a certain annotation data, which can be obtained through the search engine, the public dataset.
+- The annotation data is of low quality — with high or low annotation errors
+- it requires continuous manual input to constantly improve the quality of annotation. The form of human annotation may be with paid crowdsourcing, or with user feedback.
 
 # 2. Survey
 Before I introduce the research survey to you, I wrote a brief overview based on my view.
