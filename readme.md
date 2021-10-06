@@ -23,9 +23,9 @@ All of approaches in this area is to solve one problem: how to classify noisy da
 <img src="structure.svg"></img>
 
 And Then I will give some important surveys, not a long list:
-- Label Noise Types and Their Effects on Deep Learning
-- Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
-- Learning from Noisy Labels with Deep Neural Networks
+- Label Noise Types and Their Effects on Deep Learning [[pdf]](https://arxiv.org/abs/2003.10471) [[code]](https://github.com/gorkemalgan/corrupting_labels_with_distillation)
+- Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey [[pdf]](https://arxiv.org/abs/1912.05170)
+- Learning from Noisy Labels with Deep Neural Networks [[pdf]](https://arxiv.org/abs/2007.08199)
 
 # 3. Paper List
 ## EM Algorithm
